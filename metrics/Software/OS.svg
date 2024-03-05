@@ -1,0 +1,134 @@
+<svg width="1763" height="1046"
+    xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" overflow="hidden">
+	<defs>
+		<clipPath id="clip0">
+			<rect x="2917" y="346" width="1763" height="1046"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip0)" transform="translate(-2917 -346)">
+		<rect x="2918" y="347" width="1760" height="1043" fill="#FFFFFF" />
+		<g>
+			<path d="
+			M3228.5 974.532 4296.5 974.532
+			M3228.5 910.53 4296.5 910.53
+			M3228.5 846.528 4296.5 846.528
+			M3228.5 781.526 4296.5 781.526
+			M3228.5 717.524 4296.5 717.524
+			M3228.5 653.522 4296.5 653.522
+			M3228.5 589.52 4296.5 589.52
+			M3228.5 525.517 4296.5 525.517
+			M3228.5 461.515 4296.5 461.515
+			M3228.5 397.5 4296.5 397.5" stroke="#D9D9D9" stroke-width="3.4375" stroke-linejoin="round" stroke-miterlimit="10" fill="none" />
+		</g>
+		<g>
+			<path d="M 1038.5 4296.5 1038.5" stroke="#D9D9D9" stroke-width="3.4375" stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(6.12323e-17 -1 1 6.12323e-17 3244.5 1211)">29-Jan</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(6.12323e-17 -1 1 6.12323e-17 3458.1 1219)">05-Feb</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(6.12323e-17 -1 1 6.12323e-17 3671.7 1216)">12-Feb</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(6.12323e-17 -1 1 6.12323e-17 3885.3 1216)">19-Feb</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(6.12323e-17 -1 1 6.12323e-17 4098.9 1218)">26-Feb</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(6.12323e-17 -1 1 6.12323e-17 4312.5 1225)">04-Mar</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 3123.5 1050)">0%</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 3097.5 922)">20%</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 3095.5 794)">40%</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 3096.5 666)">60%</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 3096.5 538)">80%</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 3073.5 410)">100%</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 3541.5 1321)">Week Commencing</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="46" transform="matrix(6.12323e-17 -1 1 6.12323e-17 3019.73 968.75)">Requests (% of Total)</text>
+		</g>
+		<rect x="2918.5" y="347.5" width="1760" height="1043" stroke="#D9D9D9" stroke-width="3.4375" stroke-linejoin="round" stroke-miterlimit="10" fill="none" />
+		<g>
+			<path d="M3228.5 1038 3442.1 1038 3655.7 1038 3869.3 1038 4082.9 1038 4296.5 1038 4296.5 728.9340901988301 4082.9 728.9473274759466 3869.3 728.5904699830792 3655.7 728.3059690780326 3442.1 728.4979453773899 3228.5 728.9075512947094 3228.5 1038Z" fill="#e62d39" opacity="0.9" />
+		</g>
+		<g>
+			<path d="M3228.5 728.9075512947094 3442.1 728.4979453773899 3655.7 728.3059690780326 3869.3 728.5904699830792 4082.9 728.9473274759466 4296.5 728.9340901988301 4296.5 511.2846481599944 4082.9 510.42831690773556 3869.3 509.62004963115277 3655.7 508.7614604393337 3442.1 509.353058075723 3228.5 509.9096403086422 3228.5 728.9075512947094Z" fill="#005aa6" opacity="0.9" />
+		</g>
+		<g>
+			<path d="M3228.5 509.9096403086422 3442.1 509.353058075723 3655.7 508.7614604393337 3869.3 509.62004963115277 4082.9 510.42831690773556 4296.5 511.2846481599944 4296.5 466.040310950835 4082.9 465.54550807778793 3869.3 465.0596958871918 3655.7 464.56231790755743 3442.1 464.9559197775319 3228.5 465.35219027138237 3228.5 509.9096403086422Z" fill="#55c0e9" opacity="0.9" />
+		</g>
+		<g>
+			<path d="M3228.5 465.35219027138237 3442.1 464.9559197775319 3655.7 464.56231790755743 3869.3 465.0596958871918 4082.9 465.54550807778793 4296.5 466.040310950835 4296.5 450.8850550677488 4082.9 450.4868239386605 3869.3 450.086582389552 3655.7 449.68019116783887 3442.1 449.97158494345933 3228.5 450.2601617230179 3228.5 465.35219027138237Z" fill="#f6a118" opacity="0.9" />
+		</g>
+		<g>
+			<path d="M3228.5 450.2601617230179 3442.1 449.97158494345933 3655.7 449.68019116783887 3869.3 450.086582389552 4082.9 450.4868239386605 4296.5 450.8850550677488 4296.5 445.0840675736475 4082.9 444.7823876121957 3869.3 444.47619554519974 3655.7 444.146022913635 3442.1 444.4117939256318 3228.5 444.6840228236209 3228.5 450.2601617230179Z" fill="#fdd5a4" opacity="0.9" />
+		</g>
+		<g>
+			<path d="M3228.5 444.6840228236209 3442.1 444.4117939256318 3655.7 444.146022913635 3869.3 444.47619554519974 4082.9 444.7823876121957 4296.5 445.0840675736475 4296.5 441.7535822416807 4082.9 441.49228637208546 3869.3 441.22475501262005 3655.7 440.9301919465814 3442.1 441.18998724924035 3228.5 441.4614784607988 3228.5 444.6840228236209Z" fill="#f48c7d" opacity="0.9" />
+		</g>
+		<g>
+			<path d="M3228.5 441.4614784607988 3442.1 441.18998724924035 3655.7 440.9301919465814 3869.3 441.22475501262005 4082.9 441.49228637208546 4296.5 441.7535822416807 4296.5 398 4082.9 398 3869.3 397.99999999999994 3655.7 397.9999999999999 3442.1 398.0000000000001 3228.5 397.99999999999994 3228.5 441.4614784607988Z" fill="#393d41" opacity="0.9" />
+		</g>
+		<g>
+			<rect x="4372" y="431" width="22.9995" height="23" fill="#e62d39" />
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 4404.56 454)">iOS</text>
+		</g>
+		<g>
+			<rect x="4372" y="508" width="22.9995" height="23" fill="#005aa6" />
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 4404.56 531)">Android</text>
+		</g>
+		<g>
+			<rect x="4372" y="585" width="22.9995" height="23" fill="#55c0e9" />
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 4404.56 608)">Windows</text>
+		</g>
+		<g>
+			<rect x="4372" y="662" width="22.9995" height="23" fill="#f6a118" />
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 4404.56 685)">macOS</text>
+		</g>
+		<g>
+			<rect x="4372" y="739" width="22.9995" height="23" fill="#fdd5a4" />
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 4404.56 762)">Other</text>
+		</g>
+		<g>
+			<rect x="4372" y="816" width="22.9995" height="23" fill="#f48c7d" />
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 4404.56 839)">Linux</text>
+		</g>
+		<g>
+			<rect x="4372" y="893" width="22.9995" height="23" fill="#393d41" />
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 4404.56 916)">Unclassified</text>
+		</g>
+	</g>
+</svg>
