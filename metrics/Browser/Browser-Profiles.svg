@@ -1,0 +1,89 @@
+<svg width="1763" height="1046"
+    xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" overflow="hidden">
+	<defs>
+		<clipPath id="clip0">
+			<rect x="2917" y="346" width="1763" height="1046"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip0)" transform="translate(-2917 -346)">
+		<rect x="2918" y="347" width="1760" height="1043" fill="#FFFFFF" />
+		<g>
+			<path d="
+			M3228.5 974.532 4296.5 974.532
+			M3228.5 910.53 4296.5 910.53
+			M3228.5 846.528 4296.5 846.528
+			M3228.5 781.526 4296.5 781.526
+			M3228.5 717.524 4296.5 717.524
+			M3228.5 653.522 4296.5 653.522
+			M3228.5 589.52 4296.5 589.52
+			M3228.5 525.517 4296.5 525.517
+			M3228.5 461.515 4296.5 461.515
+			M3228.5 397.5 4296.5 397.5" stroke="#D9D9D9" stroke-width="3.4375" stroke-linejoin="round" stroke-miterlimit="10" fill="none" />
+		</g>
+		<g>
+			<path d="M 1038.5 4296.5 1038.5" stroke="#D9D9D9" stroke-width="3.4375" stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(6.12323e-17 -1 1 6.12323e-17 3244.5 1211)">29-Jan</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(6.12323e-17 -1 1 6.12323e-17 3458.1 1219)">05-Feb</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(6.12323e-17 -1 1 6.12323e-17 3671.7 1216)">12-Feb</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(6.12323e-17 -1 1 6.12323e-17 3885.3 1216)">19-Feb</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(6.12323e-17 -1 1 6.12323e-17 4098.9 1218)">26-Feb</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(6.12323e-17 -1 1 6.12323e-17 4312.5 1225)">04-Mar</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 3167.5 1050)">0</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 3072.5 922)">2,724</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 3073.5 794)">5,449</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 3073.5 666)">8,173</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 3049.5 538)">10,898</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 3049.5 410)">13,622</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 3541.5 1321)">Week Commencing</text>
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="46" transform="matrix(6.12323e-17 -1 1 6.12323e-17 3019.73 1035.25)">Number of Browser Profiles</text>
+		</g>
+		<rect x="2918.5" y="347.5" width="1760" height="1043" stroke="#D9D9D9" stroke-width="3.4375" stroke-linejoin="round" stroke-miterlimit="10" fill="none" />
+		<g>
+			<path d="M3228.5 1038 3442.1 1038 3655.7 1038 3869.3 1038 4082.9 1038 4296.5 1038 4296.5 536.1764792247834 4082.9 538.5726031419763 3869.3 539.0424313610336 3655.7 539.4182939362795 3442.1 541.4385552782264 3228.5 543.505799442079 3228.5 1038Z" fill="#e62d39" opacity="0.9" />
+		</g>
+		<g>
+			<path d="M3228.5 543.505799442079 3442.1 541.4385552782264 3655.7 539.4182939362795 3869.3 539.0424313610336 4082.9 538.5726031419763 4296.5 536.1764792247834 4296.5 398 4082.9 400.6780208486273 3869.3 401.1948318895903 3655.7 401.75862575245924 3442.1 404.0607840258406 3228.5 406.26897665541037 3228.5 543.505799442079Z" fill="#005aa6" opacity="0.9" />
+		</g>
+		<g>
+			<rect x="4372" y="431" width="22.9995" height="23" fill="#e62d39" />
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 4404.56 454)">Web Browser</text>
+		</g>
+		<g>
+			<rect x="4372" y="508" width="22.9995" height="23" fill="#005aa6" />
+		</g>
+		<g>
+			<text fill="#595959" font-family="Verdana,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 4404.56 531)">App</text>
+		</g>
+	</g>
+</svg>
