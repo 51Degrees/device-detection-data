@@ -4,7 +4,23 @@
 
 This repository contains the freely available 'lite' version of the 51Degrees device detection data file.
 
-It has fewer properties, is built from a subsection of all devices and is updated less frequently than the paid-for data files.
+The properties available in this file are: 
+- IsMobile
+- ScreenPixelsHeight
+- ScreenPixelsWidth
+- PlatformName
+- PlatformVersion
+- PlatformVendor
+- BrowserName
+- BrowserVersion
+- BrowserVendor
+- SetHeaderBrowserAccept-CH
+- SetHeaderHardwareAccept-CH
+- SetHeaderPlatformAccept-CH
+- JavascriptGetHighEntropyValues
+- JavascriptHardwareProfile
+
+This 'lite' file is built from a subsection of all devices and is updated less frequently than the paid-for data files.
 
 This repository uses [Git LFS](https://git-lfs.github.com/) rather than storing these large binary files directly.
 
