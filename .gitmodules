@@ -1,3 +1,1 @@
-[submodule "ci/common-ci"]
-	path = ci/common-ci
-	url = ../common-ci
+
