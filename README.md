@@ -19,7 +19,7 @@ The properties available in this file are:
 - SetHeaderPlatformAccept-CH
 - JavascriptGetHighEntropyValues
 - JavascriptHardwareProfile
-- More properties are available for free in our [cloud service](https://configure.51degrees.com/?utm_source=github&utm_medium=readme&utm_campaign=device-detection-data&utm_content=readme.md&utm_term=introduction), or on a commercial basis on [our website](https://51degrees.com/pricing?utm_source=github&utm_medium=readme&utm_campaign=device-detection-data&utm_content=readme.md&utm_term=introduction).
+- More properties are available for free in our [cloud service](https://51degrees.com/configure/?utm_source=github&utm_medium=readme&utm_campaign=device-detection-data&utm_content=readme.md&utm_term=introduction), or on a commercial basis on [our website](https://51degrees.com/pricing?utm_source=github&utm_medium=readme&utm_campaign=device-detection-data&utm_content=readme.md&utm_term=introduction).
 
 This 'lite' file is built from a subsection of all devices and is updated less frequently than the paid-for data files.
 
