@@ -1,32 +1,36 @@
-![51Degrees](https://51degrees.com/img/logo.png?utm_source=github&utm_medium=readme&utm_campaign=device-detection-data&utm_content=readme.md&utm_term=top "Data rewards the curious") **Device Detection Data Files**
+# Device Detection data files (archived)
 
-# Introduction
+This repository is archived and kept read-only. Its free data file, test
+evidence and CI files are now in the `device-detection` folder of the
+[data](https://github.com/51Degrees/data) repository. The `metrics` folder,
+which held the charts for the device data quality page, was not moved and
+stays here as it was.
 
-This repository contains the freely available 'lite' version of the 51Degrees device detection data file.
+## Get the free data files
 
-The properties available in this file are: 
-- IsMobile
-- ScreenPixelsHeight
-- ScreenPixelsWidth
-- PlatformName
-- PlatformVersion
-- PlatformVendor
-- BrowserName
-- BrowserVersion
-- BrowserVendor
-- SetHeaderBrowserAccept-CH
-- SetHeaderHardwareAccept-CH
-- SetHeaderPlatformAccept-CH
-- JavascriptGetHighEntropyValues
-- JavascriptHardwareProfile
-- More properties are available for free in our [cloud service](https://configure.51degrees.com/?utm_source=github&utm_medium=readme&utm_campaign=device-detection-data&utm_content=readme.md&utm_term=introduction), or on a commercial basis on [our website](https://51degrees.com/pricing?utm_source=github&utm_medium=readme&utm_campaign=device-detection-data&utm_content=readme.md&utm_term=introduction).
+The data repository lists each free data file as a link, and a script
+downloads the files into place. No License Key is needed. To clone the
+repository and download every free file in one command, run this.
 
-This 'lite' file is built from a subsection of all devices and is updated less frequently than the paid-for data files.
+```sh
+git clone https://github.com/51Degrees/data.git && data/get-data-files.sh
+```
 
-This repository uses [Git LFS](https://git-lfs.github.com/) rather than storing these large binary files directly.
+In PowerShell, run `./get-data-files.ps1` in the `data` folder instead. The
+[data README](https://github.com/51Degrees/data#get-the-data-files) says how
+to download only some files, or the newer versions of files you already have.
 
-# Files
+## Examples and APIs
 
-- 51Degrees-LiteV4.1.hash - The 'lite' on-premise device detection data file.
-- 20000 User Agents.csv - A test file containing 20,000 of the most commonly observed User-Agent values. Each line contains a single User-Agent.
-- 20000 Evidence Records.yml - A test file containing 20,000 of the most commonly observed sets of headers that are useful for device detection. This is a replacement for the 20000 User Agents file that includes values for [User-Agent Client Hints](https://learnclienthints.com/). This is a multi-record yaml file where each line contains the HTTP header name and value as the key/value pair. Values may be wrapped in single quotes.
+The examples and APIs that used these files are now in these repositories.
+
+- [C and C++](https://github.com/51Degrees/51degrees-cxx)
+- [.NET](https://github.com/51Degrees/51degrees-dotnet)
+- [Go](https://github.com/51Degrees/51degrees-go)
+- [Java](https://github.com/51Degrees/51degrees-java)
+- [Nginx](https://github.com/51Degrees/51degrees-nginx)
+- [Node.js](https://github.com/51Degrees/51degrees-node)
+- [PHP](https://github.com/51Degrees/51degrees-php)
+- [Python](https://github.com/51Degrees/51degrees-python)
+- [Rust](https://github.com/51Degrees/51degrees-rust)
+- [Varnish](https://github.com/51Degrees/51degrees-varnish)
